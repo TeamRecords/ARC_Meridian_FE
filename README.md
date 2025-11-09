@@ -13,6 +13,4 @@ This project includes both open-source and proprietary components.
   Usage, redistribution, or modification without explicit written permission is prohibited.  
   See the [NOTICE](./NOTICE) file for full details.
 
-For commercial licensing or trademark inquiries, contact:  
-**A.R.C Foundation Licensing Department**  
-📧 *[Official Website](https://www.arcfoundation.net/profile/cmhkdi4vy0000vsy0inw3fgko)*
+For commercial licensing or trademark inquiries, contact TeamRecords on the *[Official Website](https://www.arcfoundation.net/profile/cmhkdi4vy0000vsy0inw3fgko)*!
